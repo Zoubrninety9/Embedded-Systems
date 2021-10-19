@@ -1,6 +1,6 @@
 #include "mbed.h"
 
-PortOut lights(PortC, 0b0000000001001100);
+PortOut lights(PortC, 0b0000000001000100);
 
 int main()
 {
